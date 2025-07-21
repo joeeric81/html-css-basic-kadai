@@ -1,9 +1,9 @@
 :root {
     font-size: 20px;
-    text-align:center;
 }
 body {
-    font : "Arial", "Meiryo" sans-serif;
+    font-family : "Arial", "Meiryo", sans-serif;
+    text-align:center;
 }
 .blue {
     color : skyblue;
