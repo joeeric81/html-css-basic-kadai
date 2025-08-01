@@ -17,12 +17,13 @@
     width: 800px;
     height: 800px;
     background-color: #ffd9df;
+    position: relative;
     /* margin:20px 0px; */
     margin:20px auto;
     text-align:center;
 }
 #middle div{
-    position: relative;
+    /* position: relative; */
     /* position: fixed; */
     width: 200px;
     height: 200px;
@@ -38,14 +39,16 @@
     /* position: relative; */
     position: absolute;
     /* top: 300px; */
-    top: 100px;
+    /* top: 100px; */
+    top: 300px;
     left: 300px;
 }
 #middle-child03 {
     /* position: relative; */
     position: absolute;
     /* top: 500px; */
-    top: 100px;
+    /* top: 100px; */
+    top: 500px;
     left: 500px;
 }
 #bottom {
